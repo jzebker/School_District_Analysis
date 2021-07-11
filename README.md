@@ -27,6 +27,10 @@ The school board has found evidence of academic dishonesty after an analysis of 
 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+<p align="center">
+  <strong><i>Updated Schools by Overall Passing Percentage</i></strong>
+  <img width="991" alt="newtopfive" src="https://user-images.githubusercontent.com/84994321/125207880-fa012f80-e243-11eb-996a-0fa07c2000e1.png">
+</p>
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
