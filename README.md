@@ -70,10 +70,14 @@ The school board has found evidence of academic dishonesty after an analysis of 
 
 <p align="center">
   <strong><i>Updated Scores by School Type</i></strong>
+</p>
+<p align="center">
   <img width="712" alt="newdataschooltype" src="https://user-images.githubusercontent.com/84994321/125208077-5022a280-e245-11eb-81d5-a15daa7e3c87.png">
 </p>
 <p align="center">
   <strong><i>Original Scores by School Type</i></strong>
+</p>
+<p align="center">
   <img width="719" alt="olddataschooltype" src="https://user-images.githubusercontent.com/84994321/125208099-64ff3600-e245-11eb-9cef-b345034752a1.png">
 </p>
 
