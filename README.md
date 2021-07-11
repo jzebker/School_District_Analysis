@@ -42,10 +42,14 @@ The school board has found evidence of academic dishonesty after an analysis of 
 #### Math and reading scores by grade
 <p align="center">
   <strong><i>Updated Scores by Grade</i></strong>
+</p>  
+<p align="center">
   <img width="592" alt="updatedscoresbygrade" src="https://user-images.githubusercontent.com/84994321/125210519-2b362b80-e255-11eb-9090-87ea08306afe.png">
 </p>
 <p align="center">
   <strong><i>Original Scores by Grade</i></strong>
+</p>
+<p align="center">
   <img width="595" alt="oldscoresbygrade" src="https://user-images.githubusercontent.com/84994321/125210534-38531a80-e255-11eb-9b1f-4fda8641a047.png">
 </p>
 
