@@ -40,15 +40,13 @@ The school board has found evidence of academic dishonesty after an analysis of 
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
-<strong><i>Updated Scores by Grade</i></strong>
 <p align="center">
-  <img width="294" alt="newmathscore" src="https://user-images.githubusercontent.com/84994321/125210447-b9f67880-e254-11eb-9b82-2428d2861d5f.png">
-  <img width="296" alt="newreadingscore" src="https://user-images.githubusercontent.com/84994321/125210453-c1b61d00-e254-11eb-8e12-fb373440db03.png">
+  <strong><i>Updated Scores by Grade</i></strong>
+  <img width="592" alt="updatedscoresbygrade" src="https://user-images.githubusercontent.com/84994321/125210519-2b362b80-e255-11eb-9090-87ea08306afe.png">
 </p>
-<strong><i>Original Scores by Grade</i></strong>
 <p align="center">
-  <img width="296" alt="oldmathscore" src="https://user-images.githubusercontent.com/84994321/125210337-0ee5bf00-e254-11eb-82b4-d643a6238753.png">
-  <img width="297" alt="oldreadingscore" src="https://user-images.githubusercontent.com/84994321/125210338-11e0af80-e254-11eb-98b7-14c82c1da132.png"> 
+  <strong><i>Original Scores by Grade</i></strong>
+  <img width="595" alt="oldscoresbygrade" src="https://user-images.githubusercontent.com/84994321/125210534-38531a80-e255-11eb-9b1f-4fda8641a047.png">
 </p>
 
 #### Scores by school spending
