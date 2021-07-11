@@ -1,5 +1,5 @@
 # School_District_Analysis
-
+[Jupyter Notebook](https://github.com/jzebker/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 ## Overview:
 The school board has found evidence of academic dishonesty after an analysis of the school district has already been completed.  Repeat the school district analysis for Maria after removing compromised test scores and provide a written report on how the results have changed.
 
