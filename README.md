@@ -109,4 +109,4 @@ Summarize four changes in the updated school district analysis after reading and
 - The average reading score, average math score, and overall passing rate for the entire school district all slightly decreased
 - At Thomas High School in particular, the average reading score slightly increased while average math score and overall passing rate slightly decreased
 - Thomas High School's ranking vs other district schools did not change as a result of the omitted data
-- For the category corresponding to the group Thomas High School was classified into for school spending, size, and type, the average reading score slightly increased while the average math score and overall passing rate slightly decreased
+- The category corresponding to the group Thomas High School was classified into for school spending, size, and type, saw the average reading score slightly increase while the average math score and overall passing rate slightly decreased
