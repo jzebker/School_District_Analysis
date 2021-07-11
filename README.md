@@ -40,6 +40,12 @@ The school board has found evidence of academic dishonesty after an analysis of 
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
+
+<p align="center">
+  <img width="295" alt="oldmathscorebygrade" src="https://user-images.githubusercontent.com/84994321/125209988-b44b6380-e251-11eb-8274-67e69722ba03.png">
+  <img width="296" alt="oldreadingscorebygrade" src="https://user-images.githubusercontent.com/84994321/125209994-b6adbd80-e251-11eb-9b4f-ee6c5763732d.png">
+</p>
+
 #### Scores by school spending
 
 <p align="center">
