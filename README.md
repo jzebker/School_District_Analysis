@@ -22,7 +22,7 @@ The school board has found evidence of academic dishonesty after an analysis of 
 </p>
 <p align="center">
   <strong><i>Original School Summary (Thomas High School)</i></strong>
-  <img width="1065" alt="thomashighold" src="https://user-images.githubusercontent.com/84994321/125207532-aab9ff80-e241-11eb-9a81-5e17e624a473.png">
+  <img width="1005" alt="thomashighold" src="https://user-images.githubusercontent.com/84994321/125207582-fcfb2080-e241-11eb-84aa-1296fb595947.png">
 </p>
 
 
