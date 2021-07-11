@@ -1,11 +1,13 @@
 # School_District_Analysis
 
 ## Overview:
-purpose
+The school board has found evidence of academic dishonesty after an analysis of the school district has already been completed.  Repeat the school district analysis for Maria after removing compromised test scores and provide a written report on how the results have changed.
 
 ## Results:
-use images of dataframes and bulleted lists
 ### How is the district summary affected?
+<p align="center">
+  <img width="940" alt="newdistrictsummary" src="https://user-images.githubusercontent.com/84994321/125206995-dbe50080-e23e-11eb-9330-8e9dadf58d98.png">
+</p>
 
 ### How is the school summary affected?
 
