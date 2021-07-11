@@ -5,6 +5,7 @@ The school board has found evidence of academic dishonesty after an analysis of 
 
 ## Results:
 ### How is the district summary affected?
+- All five scoring metrics saw slight decreases
 <p align="center">
   <strong><i>Updated District Summary</i></strong>
   <img width="917" alt="newdistrictsummary" src="https://user-images.githubusercontent.com/84994321/125208910-40f22380-e24a-11eb-8e4f-7e33cbce2ab8.png">
@@ -13,9 +14,11 @@ The school board has found evidence of academic dishonesty after an analysis of 
   <strong><i>Original District Summary</i></strong>
   <img width="919" alt="olddistrictsummary" src="https://user-images.githubusercontent.com/84994321/125208920-48b1c800-e24a-11eb-987d-5569bd95b794.png">
 </p>
-- All five scoring metrics saw slight decreases
 
 ### How is the school summary affected?
+- Thomas High School is the only school whose data was affected
+- The average reading score at Thomas High School slightly increased
+- All other categories saw slight decreases
 <p align="center">
   <strong><i>Updated School Summary (Thomas High School)</i></strong>
   <img width="980" alt="THSheaders" src="https://user-images.githubusercontent.com/84994321/125207931-53695e80-e244-11eb-8d9a-de009e06ca47.png">
@@ -26,9 +29,6 @@ The school board has found evidence of academic dishonesty after an analysis of 
   <img width="980" alt="THSheaders" src="https://user-images.githubusercontent.com/84994321/125207931-53695e80-e244-11eb-8d9a-de009e06ca47.png">
   <img width="958" alt="thomashighold" src="https://user-images.githubusercontent.com/84994321/125209479-db079b00-e24d-11eb-8413-8e604cc90a16.png">
 </p>
-- Thomas High School is the only school whose data was affected
-- The average reading score at Thomas High School slightly increased
-- All other categories saw slight decreases
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 <p align="center">
@@ -43,6 +43,7 @@ The school board has found evidence of academic dishonesty after an analysis of 
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
+- Only the data for 9th grade students at Thomas High School was omitted
 <p align="center">
   <strong><i>Updated Scores by Grade</i></strong>
 </p>  
@@ -55,7 +56,6 @@ The school board has found evidence of academic dishonesty after an analysis of 
 <p align="center">
   <img width="595" alt="oldscoresbygrade" src="https://user-images.githubusercontent.com/84994321/125210534-38531a80-e255-11eb-9b1f-4fda8641a047.png">
 </p>
-- Only the data for 9th grade students at Thomas High School was omitted
 
 #### Scores by school spending
 <p align="center">
