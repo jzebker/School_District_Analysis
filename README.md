@@ -6,6 +6,7 @@ The school board has found evidence of academic dishonesty after an analysis of 
 ## Results:
 ### How is the district summary affected?
 <p align="center">
+  **Updated District Summary**
   <img width="940" alt="newdistrictsummary" src="https://user-images.githubusercontent.com/84994321/125206995-dbe50080-e23e-11eb-9330-8e9dadf58d98.png">
 </p>
 
