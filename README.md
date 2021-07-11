@@ -71,7 +71,9 @@ The school board has found evidence of academic dishonesty after an analysis of 
 </p>
 
 #### Scores by school size
-
+- Only data for the medium school size range (Thomas High School: 1635) was affected
+- The average reading score slightly increased
+- All other categories saw slight decreases
 <p align="center">
   <strong><i>Updated Scores by School Size</i></strong>
 </p>
@@ -86,7 +88,9 @@ The school board has found evidence of academic dishonesty after an analysis of 
 </p>
 
 #### Scores by school type
-
+- Only data for charter schools (Thomas High School: charter) was affected
+- The average reading score slightly increased
+- All other categories saw slight decreases
 <p align="center">
   <strong><i>Updated Scores by School Type</i></strong>
 </p>
