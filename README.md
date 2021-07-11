@@ -59,6 +59,7 @@ The school board has found evidence of academic dishonesty after an analysis of 
   <strong><i>Original Scores by School Size</i></strong>
   <img width="766" alt="olddataschoolsize" src="https://user-images.githubusercontent.com/84994321/125208068-397c4b80-e245-11eb-85ba-eda576446d41.png">
 </p>
+
 #### Scores by school type
 <p align="center">
   <strong><i>Updated Scores by School Type</i></strong>
