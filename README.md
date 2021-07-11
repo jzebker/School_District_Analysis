@@ -58,6 +58,9 @@ The school board has found evidence of academic dishonesty after an analysis of 
 </p>
 
 #### Scores by school spending
+- Only data for the spending range $630-$644 (Thomas High School: $638) was affected
+- The average reading score slightly increased
+- All other categories saw slight decreases
 <p align="center">
   <strong><i>Updated Scores by Spending</i></strong>
   <img width="838" alt="newdataspendingrange" src="https://user-images.githubusercontent.com/84994321/125208012-dee2ef80-e244-11eb-9b95-c454ee9fb0ac.png">
