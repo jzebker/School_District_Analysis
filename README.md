@@ -106,7 +106,7 @@ The school board has found evidence of academic dishonesty after an analysis of 
 
 ## Summary:
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-- The average reading score, average math score, and overall passing rate for the school district all slightly decreased
+- The average reading score, average math score, and overall passing rate for the entire school district all slightly decreased
 - At Thomas High School in particular, the average reading score slightly increased while average math score and overall passing rate slightly decreased
 - Thomas High School's ranking vs other district schools did not change as a result of the omitted data
-- 
+- For the category corresponding to the group Thomas High School was classified into for school spending, size, and type, the average reading score slightly increased while the average math score and overall passing rate slightly decreased
