@@ -16,6 +16,15 @@ The school board has found evidence of academic dishonesty after an analysis of 
 
 
 ### How is the school summary affected?
+<p align="center">
+  <strong><i>Updated School Summary (Thomas High School)</i></strong>
+  <img width="1021" alt="thomashighnew" src="https://user-images.githubusercontent.com/84994321/125207494-64fd3700-e241-11eb-929d-9a5623a74992.png">
+</p>
+<p align="center">
+  <strong><i>Original School Summary (Thomas High School)</i></strong>
+  <img width="1065" alt="thomashighold" src="https://user-images.githubusercontent.com/84994321/125207532-aab9ff80-e241-11eb-9a81-5e17e624a473.png">
+</p>
+
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
