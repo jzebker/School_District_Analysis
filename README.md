@@ -42,6 +42,7 @@ The school board has found evidence of academic dishonesty after an analysis of 
 #### Math and reading scores by grade
 
 <p align="center">
+  <FIGCAPTION>A view of York Minster from a side street.</FIGCAPTION>
   <img title='Original Math Scores By Grade' width="295" alt="oldmathscorebygrade" src="https://user-images.githubusercontent.com/84994321/125209988-b44b6380-e251-11eb-8274-67e69722ba03.png">
   <img title='Original Reading Scores By Grade' width="296" alt="oldreadingscorebygrade" src="https://user-images.githubusercontent.com/84994321/125209994-b6adbd80-e251-11eb-9b4f-ee6c5763732d.png">
 </p>
