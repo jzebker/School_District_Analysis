@@ -7,11 +7,11 @@ The school board has found evidence of academic dishonesty after an analysis of 
 ### How is the district summary affected?
 <p align="center">
   <strong><i>Updated District Summary</i></strong>
-  <img width="940" alt="newdistrictsummary" src="https://user-images.githubusercontent.com/84994321/125206995-dbe50080-e23e-11eb-9330-8e9dadf58d98.png">
+  <img width="917" alt="newdistrictsummary" src="https://user-images.githubusercontent.com/84994321/125208910-40f22380-e24a-11eb-8e4f-7e33cbce2ab8.png">
 </p>
 <p align="center">
   <strong><i>Original District Summary</i></strong>
-  <img width="938" alt="olddistrictsummary" src="https://user-images.githubusercontent.com/84994321/125207412-1ea7d800-e241-11eb-8169-74033048d55e.png">
+  <img width="919" alt="olddistrictsummary" src="https://user-images.githubusercontent.com/84994321/125208920-48b1c800-e24a-11eb-987d-5569bd95b794.png">
 </p>
 
 
