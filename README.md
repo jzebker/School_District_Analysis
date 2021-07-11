@@ -18,11 +18,11 @@ The school board has found evidence of academic dishonesty after an analysis of 
 ### How is the school summary affected?
 <p align="center">
   <strong><i>Updated School Summary (Thomas High School)</i></strong>
-  <img width="986" alt="thomashighnew" src="https://user-images.githubusercontent.com/84994321/125207638-2ae06500-e242-11eb-91bf-7a874b667ee6.png">
+  <img width="962" alt="thomashighnew" src="https://user-images.githubusercontent.com/84994321/125207703-8dd1fc00-e242-11eb-9e2b-418f81ae0e3b.png">
 </p>
 <p align="center">
   <strong><i>Original School Summary (Thomas High School)</i></strong>
-  <img width="1005" alt="thomashighold" src="https://user-images.githubusercontent.com/84994321/125207582-fcfb2080-e241-11eb-84aa-1296fb595947.png">
+  <img width="958" alt="thomashighold" src="https://user-images.githubusercontent.com/84994321/125207713-99252780-e242-11eb-9184-300fd4263b18.png">
 </p>
 
 
