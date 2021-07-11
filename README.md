@@ -11,6 +11,7 @@ The school board has found evidence of academic dishonesty after an analysis of 
 </p>
 <p align="center">
   <strong><i>Original District Summary</i></strong>
+  <img width="938" alt="olddistrictsummary" src="https://user-images.githubusercontent.com/84994321/125207412-1ea7d800-e241-11eb-8169-74033048d55e.png">
 </p>
 
 
